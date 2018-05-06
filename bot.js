@@ -26,7 +26,7 @@ bot.on("message", function (message) {
 
 	
 
-	if (message.content == "!kellakutya") {
+	if (message.content == "m!minecraft") {
 
 		random = Math.floor((Math.random() * 10) + 0);
 
