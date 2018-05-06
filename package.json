@@ -1,0 +1,27 @@
+{
+
+  "name": "MINECRAFT",
+
+  "version": "1.0.0",
+
+  "description": "A MINECRAFT jó!",
+
+  "main": "bot.js",
+
+  "author": "ICE567",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.3.2",
+
+    "request": "2.81.0"
+
+  }
+
+}
